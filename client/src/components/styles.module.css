@@ -1,0 +1,16 @@
+.btn {
+  margin-top: 20px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.delete {
+  appearance: none;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
